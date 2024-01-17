@@ -1,0 +1,162 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ore:warn] [pid 1448:tid 328] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ore:warn] [pid 21976:tid 320] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 05 10:49:53.562684 2024] [mpm_winnt:notice] [pid 21976:tid 320] AH00455: Apache/2.4.54 (Win64) configured -- resuming normal operations
+[Fri Jan 05 10:49:53.562684 2024] [mpm_winnt:notice] [pid 21976:tid 320] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Fri Jan 05 10:49:53.562684 2024] [core:notice] [pid 21976:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Jan 05 10:49:53.566683 2024] [mpm_winnt:notice] [pid 21976:tid 320] AH00418: Parent: Created child process 19684
+[Fri Jan 05 10:49:53.785965 2024] [mpm_winnt:notice] [pid 19684:tid 372] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 05 11:03:40.365529 2024] [mpm_winnt:notice] [pid 21976:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 05 11:03:42.379335 2024] [mpm_winnt:notice] [pid 19684:tid 372] AH00364: Child: All worker threads have exited.
+[Fri Jan 05 11:03:42.409018 2024] [mpm_winnt:notice] [pid 21976:tid 320] AH00430: Parent: Child process 19684 exited successfully.
+[Fri Jan 05 11:03:42.412181 2024] [core:info] [pid 21976:tid 320] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=21976)
+Failed loading C:/php73/ext/php_xdebug.dll
+[Fri Jan 05 11:03:48.239300 2024] [mpm_winnt:notice] [pid 8792:tid 340] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Fri Jan 05 11:03:48.239300 2024] [mpm_winnt:notice] [pid 8792:tid 340] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Fri Jan 05 11:03:48.239300 2024] [core:notice] [pid 8792:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Jan 05 11:03:48.248812 2024] [mpm_winnt:notice] [pid 8792:tid 340] AH00418: Parent: Created child process 6872
+Apache server interrupted...
+hp_xdebug.dll
+[Fri Jan 05 11:03:48.498840 2024] [mpm_winnt:notice] [pid 6872:tid 352] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 05 11:04:08.503504 2024] [mpm_winnt:notice] [pid 8792:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 05 11:04:10.524529 2024] [mpm_winnt:notice] [pid 6872:tid 352] AH00364: Child: All worker threads have exited.
+[Fri Jan 05 11:04:10.567119 2024] [mpm_winnt:notice] [pid 8792:tid 340] AH00430: Parent: Child process 6872 exited successfully.
+[Fri Jan 05 11:04:10.568119 2024] [core:info] [pid 8792:tid 340] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=8792)
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 21312:tid 320] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Fri Jan 05 11:04:16.281021 2024] [mpm_winnt:notice] [pid 21312:tid 320] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Fri Jan 05 11:04:16.281021 2024] [core:notice] [pid 21312:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Jan 05 11:04:16.285530 2024] [mpm_winnt:notice] [pid 21312:tid 320] AH00418: Parent: Created child process 27612
+Failed loading C:/php73/ext/php_xdebug.dll
+[Fri Jan 05 11:04:16.516161 2024] [mpm_winnt:notice] [pid 27612:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 05 11:04:22.633769 2024] [mpm_winnt:notice] [pid 21312:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 05 11:04:24.650961 2024] [mpm_winnt:notice] [pid 27612:tid 360] AH00364: Child: All worker threads have exited.
+[Fri Jan 05 11:04:24.697156 2024] [mpm_winnt:notice] [pid 21312:tid 320] AH00430: Parent: Child process 27612 exited successfully.
+[Fri Jan 05 11:04:24.698156 2024] [core:info] [pid 21312:tid 320] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=21312)
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 19452:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Fri Jan 05 11:04:31.864441 2024] [mpm_winnt:notice] [pid 19452:tid 352] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Fri Jan 05 11:04:31.864441 2024] [core:notice] [pid 19452:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Jan 05 11:04:31.871984 2024] [mpm_winnt:notice] [pid 19452:tid 352] AH00418: Parent: Created child process 10788
+Failed loading C:/php73/ext/php_xdebug.dll
+[Fri Jan 05 11:04:32.101909 2024] [mpm_winnt:notice] [pid 10788:tid 352] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 06 18:29:38.614610 2024] [mpm_winnt:notice] [pid 19452:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 06 18:29:40.724513 2024] [mpm_winnt:notice] [pid 10788:tid 352] AH00364: Child: All worker threads have exited.
+[Sat Jan 06 18:29:40.755521 2024] [mpm_winnt:notice] [pid 19452:tid 352] AH00430: Parent: Child process 10788 exited successfully.
+[Sat Jan 06 18:29:40.755521 2024] [core:info] [pid 19452:tid 352] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=19452)
+[Sat Jan 06 18:30:13.588174 2024] [mpm_winnt:notice] [pid 5048:tid 328] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Sat Jan 06 18:30:13.588174 2024] [mpm_winnt:notice] [pid 5048:tid 328] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Sat Jan 06 18:30:13.588174 2024] [core:notice] [pid 5048:tid 328] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Jan 06 18:30:13.597185 2024] [mpm_winnt:notice] [pid 5048:tid 328] AH00418: Parent: Created child process 8912
+Failed loading C:/php73/ext/php_xdebug.dll
+[Sat Jan 06 18:30:13.987010 2024] [mpm_winnt:notice] [pid 8912:tid 344] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 06 18:53:52.017764 2024] [mpm_winnt:notice] [pid 5048:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 06 18:53:54.034673 2024] [mpm_winnt:notice] [pid 8912:tid 344] AH00364: Child: All worker threads have exited.
+[Sat Jan 06 18:53:54.066596 2024] [mpm_winnt:notice] [pid 5048:tid 328] AH00430: Parent: Child process 8912 exited successfully.
+[Sat Jan 06 18:53:54.066596 2024] [core:info] [pid 5048:tid 328] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5048)
+[Sat Jan 06 18:54:28.027223 2024] [mpm_winnt:notice] [pid 5256:tid 332] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Sat Jan 06 18:54:28.027223 2024] [mpm_winnt:notice] [pid 5256:tid 332] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Sat Jan 06 18:54:28.027223 2024] [core:notice] [pid 5256:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Jan 06 18:54:28.027223 2024] [mpm_winnt:notice] [pid 5256:tid 332] AH00418: Parent: Created child process 8372
+Failed loading C:/php73/ext/php_xdebug.dll
+[Sat Jan 06 18:54:28.257114 2024] [mpm_winnt:notice] [pid 8372:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 09 23:54:12.214060 2024] [mpm_winnt:notice] [pid 5256:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 09 23:54:14.310556 2024] [mpm_winnt:notice] [pid 8372:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Jan 09 23:54:14.341526 2024] [mpm_winnt:notice] [pid 5256:tid 332] AH00430: Parent: Child process 8372 exited successfully.
+[Tue Jan 09 23:54:14.341526 2024] [core:info] [pid 5256:tid 332] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5256)
+[Tue Jan 09 23:54:47.661097 2024] [mpm_winnt:notice] [pid 4944:tid 364] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Tue Jan 09 23:54:47.661097 2024] [mpm_winnt:notice] [pid 4944:tid 364] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Tue Jan 09 23:54:47.661097 2024] [core:notice] [pid 4944:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Jan 09 23:54:47.661097 2024] [mpm_winnt:notice] [pid 4944:tid 364] AH00418: Parent: Created child process 7608
+Failed loading C:/php73/ext/php_xdebug.dll
+[Tue Jan 09 23:54:47.912293 2024] [mpm_winnt:notice] [pid 7608:tid 364] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 10 16:44:43.180154 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50116] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 16:44:43.370524 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50116] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 16:44:43.550557 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50116] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 16:44:43.736885 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50116] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 16:49:34.906229 2024] [authz_core:error] [pid 7608:tid 1228] [client 127.0.0.1:50283] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 17:06:11.881491 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50858] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 17:06:42.356430 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50908] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Wed Jan 10 17:08:32.558464 2024] [authz_core:error] [pid 7608:tid 1212] [client 127.0.0.1:50965] AH01630: client denied by server configuration: C:/Sites/log.local/modules/image_converter/image_converter.pg.php, referer: http://log.local/image-converter
+[Thu Jan 11 09:07:23.434589 2024] [mpm_winnt:notice] [pid 4944:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 11 09:07:25.532978 2024] [mpm_winnt:notice] [pid 7608:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Jan 11 09:07:25.564019 2024] [mpm_winnt:notice] [pid 4944:tid 364] AH00430: Parent: Child process 7608 exited successfully.
+[Thu Jan 11 09:07:25.564019 2024] [core:info] [pid 4944:tid 364] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=4944)
+[Thu Jan 11 09:07:54.937662 2024] [mpm_winnt:notice] [pid 4912:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Thu Jan 11 09:07:54.937662 2024] [mpm_winnt:notice] [pid 4912:tid 352] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Thu Jan 11 09:07:54.937662 2024] [core:notice] [pid 4912:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jan 11 09:07:54.937662 2024] [mpm_winnt:notice] [pid 4912:tid 352] AH00418: Parent: Created child process 8344
+Failed loading C:/php73/ext/php_xdebug.dll
+[Thu Jan 11 09:07:55.252184 2024] [mpm_winnt:notice] [pid 8344:tid 368] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 11 15:39:11.297499 2024] [mpm_winnt:notice] [pid 4912:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 11 15:39:13.313769 2024] [mpm_winnt:notice] [pid 8344:tid 368] AH00364: Child: All worker threads have exited.
+[Thu Jan 11 15:39:13.330016 2024] [mpm_winnt:notice] [pid 4912:tid 352] AH00430: Parent: Child process 8344 exited successfully.
+[Thu Jan 11 15:39:13.330016 2024] [core:info] [pid 4912:tid 352] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=4912)
+[Thu Jan 11 15:39:45.365548 2024] [mpm_winnt:notice] [pid 4380:tid 364] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Thu Jan 11 15:39:45.365548 2024] [mpm_winnt:notice] [pid 4380:tid 364] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Thu Jan 11 15:39:45.365548 2024] [core:notice] [pid 4380:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jan 11 15:39:45.381180 2024] [mpm_winnt:notice] [pid 4380:tid 364] AH00418: Parent: Created child process 7660
+Failed loading C:/php73/ext/php_xdebug.dll
+[Thu Jan 11 15:39:45.710106 2024] [mpm_winnt:notice] [pid 7660:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 11 17:04:07.425495 2024] [mpm_winnt:notice] [pid 4380:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 11 17:04:09.442553 2024] [mpm_winnt:notice] [pid 7660:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Jan 11 17:04:09.458178 2024] [mpm_winnt:notice] [pid 4380:tid 364] AH00430: Parent: Child process 7660 exited successfully.
+[Thu Jan 11 17:04:09.458178 2024] [core:info] [pid 4380:tid 364] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=4380)
+[Thu Jan 11 17:04:42.889201 2024] [mpm_winnt:notice] [pid 5848:tid 160] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Thu Jan 11 17:04:42.889201 2024] [mpm_winnt:notice] [pid 5848:tid 160] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Thu Jan 11 17:04:42.889201 2024] [core:notice] [pid 5848:tid 160] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jan 11 17:04:42.889201 2024] [mpm_winnt:notice] [pid 5848:tid 160] AH00418: Parent: Created child process 9724
+[Thu Jan 11 17:04:43.189274 2024] [mpm_winnt:notice] [pid 9724:tid 376] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 11 20:50:49.932824 2024] [mpm_winnt:notice] [pid 5848:tid 160] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 11 20:50:52.035620 2024] [mpm_winnt:notice] [pid 9724:tid 376] AH00364: Child: All worker threads have exited.
+[Thu Jan 11 20:50:52.066858 2024] [mpm_winnt:notice] [pid 5848:tid 160] AH00430: Parent: Child process 9724 exited successfully.
+[Thu Jan 11 20:50:52.066858 2024] [core:info] [pid 5848:tid 160] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5848)
+[Thu Jan 11 20:51:20.063145 2024] [mpm_winnt:notice] [pid 5216:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Thu Jan 11 20:51:20.063145 2024] [mpm_winnt:notice] [pid 5216:tid 352] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Thu Jan 11 20:51:20.063145 2024] [core:notice] [pid 5216:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jan 11 20:51:20.063145 2024] [mpm_winnt:notice] [pid 5216:tid 352] AH00418: Parent: Created child process 8356
+[Thu Jan 11 20:51:20.375626 2024] [mpm_winnt:notice] [pid 8356:tid 396] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 12 20:33:54.184371 2024] [mpm_winnt:notice] [pid 5216:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 12 20:33:56.303051 2024] [mpm_winnt:notice] [pid 8356:tid 396] AH00364: Child: All worker threads have exited.
+[Fri Jan 12 20:33:56.334046 2024] [mpm_winnt:notice] [pid 5216:tid 352] AH00430: Parent: Child process 8356 exited successfully.
+[Fri Jan 12 20:33:56.334046 2024] [core:info] [pid 5216:tid 352] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5216)
+[Fri Jan 12 20:34:25.984549 2024] [mpm_winnt:notice] [pid 5064:tid 352] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Fri Jan 12 20:34:25.984549 2024] [mpm_winnt:notice] [pid 5064:tid 352] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Fri Jan 12 20:34:25.984549 2024] [core:notice] [pid 5064:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Jan 12 20:34:25.984549 2024] [mpm_winnt:notice] [pid 5064:tid 352] AH00418: Parent: Created child process 8308
+[Fri Jan 12 20:34:26.359830 2024] [mpm_winnt:notice] [pid 8308:tid 388] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 15 09:46:25.829315 2024] [mpm_winnt:notice] [pid 5064:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 15 09:46:27.931230 2024] [mpm_winnt:notice] [pid 8308:tid 388] AH00364: Child: All worker threads have exited.
+[Mon Jan 15 09:46:27.962265 2024] [mpm_winnt:notice] [pid 5064:tid 352] AH00430: Parent: Child process 8308 exited successfully.
+[Mon Jan 15 09:46:27.962265 2024] [core:info] [pid 5064:tid 352] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5064)
+[Mon Jan 15 09:47:00.665333 2024] [mpm_winnt:notice] [pid 5068:tid 376] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Mon Jan 15 09:47:00.665333 2024] [mpm_winnt:notice] [pid 5068:tid 376] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Mon Jan 15 09:47:00.665333 2024] [core:notice] [pid 5068:tid 376] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Jan 15 09:47:00.667846 2024] [mpm_winnt:notice] [pid 5068:tid 376] AH00418: Parent: Created child process 9116
+[Mon Jan 15 09:47:01.045359 2024] [mpm_winnt:notice] [pid 9116:tid 432] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 15 10:29:28.820606 2024] [mpm_winnt:notice] [pid 5068:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 15 10:29:30.821469 2024] [mpm_winnt:notice] [pid 9116:tid 432] AH00364: Child: All worker threads have exited.
+[Mon Jan 15 10:29:30.853045 2024] [mpm_winnt:notice] [pid 5068:tid 376] AH00430: Parent: Child process 9116 exited successfully.
+[Mon Jan 15 10:29:30.853045 2024] [core:info] [pid 5068:tid 376] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5068)
+[Mon Jan 15 10:30:06.158082 2024] [mpm_winnt:notice] [pid 5976:tid 196] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Mon Jan 15 10:30:06.158082 2024] [mpm_winnt:notice] [pid 5976:tid 196] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Mon Jan 15 10:30:06.158082 2024] [core:notice] [pid 5976:tid 196] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Jan 15 10:30:06.162636 2024] [mpm_winnt:notice] [pid 5976:tid 196] AH00418: Parent: Created child process 9860
+[Mon Jan 15 10:30:06.483025 2024] [mpm_winnt:notice] [pid 9860:tid 372] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 16 13:59:58.448782 2024] [mpm_winnt:notice] [pid 5976:tid 196] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 16 14:00:00.564737 2024] [mpm_winnt:notice] [pid 9860:tid 372] AH00364: Child: All worker threads have exited.
+[Tue Jan 16 14:00:00.595987 2024] [mpm_winnt:notice] [pid 5976:tid 196] AH00430: Parent: Child process 9860 exited successfully.
+[Tue Jan 16 14:00:00.595987 2024] [core:info] [pid 5976:tid 196] AH00096: removed PID file C:/Apache24/logs/httpd.pid (pid=5976)
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ore:warn] [pid 12044:tid 376] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 16 14:16:36.285735 2024] [mpm_winnt:notice] [pid 12044:tid 376] AH00455: Apache/2.4.54 (Win64) PHP/7.3.0 configured -- resuming normal operations
+[Tue Jan 16 14:16:36.285735 2024] [mpm_winnt:notice] [pid 12044:tid 376] AH00456: Apache Lounge VC15 Server built: Jun 24 2022 10:13:23
+[Tue Jan 16 14:16:36.285735 2024] [core:notice] [pid 12044:tid 376] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Jan 16 14:16:36.295735 2024] [mpm_winnt:notice] [pid 12044:tid 376] AH00418: Parent: Created child process 11064
+[Tue Jan 16 14:16:36.519332 2024] [mpm_winnt:notice] [pid 11064:tid 364] AH00354: Child: Starting 64 worker threads.
